@@ -1,0 +1,2 @@
+class FuaweiChip:
+    pass
